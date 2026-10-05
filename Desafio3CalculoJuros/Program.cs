@@ -2,7 +2,7 @@ using System.Globalization;
 
 namespace CalculoJuros;
 
-// Regra de negócio isolada. Recebe "hoje" como parâmetro para ser fácil de testar.
+// Regra de negócio isolada. Recebe "hoje" como parâmetro para facilitar o teste.
 public static class CalculadoraJuros
 {
     // 2,5% ao dia, juros simples (incide sempre sobre o valor original).
