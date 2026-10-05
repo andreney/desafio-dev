@@ -122,7 +122,7 @@ juros = valor × 2,5% × dias em atraso
 ## Possíveis melhorias
 
 - Testes unitários (xUnit) para as regras de comissão, estoque e juros
-- Persistência do estoque e do histórico em **SQL Server**
+- Armazenamento do estoque e do histórico em **SQL Server**
 - Tratamento de concorrência nas movimentações de estoque (transações)
 - Separar as classes em arquivos próprios e reunir os projetos em uma única solution (`.sln`)
 - Expor as funcionalidades como API REST
