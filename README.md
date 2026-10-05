@@ -129,4 +129,4 @@ juros = valor × 2,5% × dias em atraso
 
 ## Autor
 
-**Seu Nome** — [LinkedIn](https://linkedin.com/in/seu-perfil) — seu.email@exemplo.com
+**Andreney Santos** — [LinkedIn](https://www.linkedin.com/in/andreney-laranjeira-dos-santos) — andreney@gmail.com
